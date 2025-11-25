@@ -5,10 +5,10 @@
 }
 
 :root {
-    --primary-color: #8ab4f8; /* Define a cor primária (azul claro) como uma variável. */
-    --secondary-color: #e8eaed; /* Define a cor secundária (cinza claro) como uma variável. */
-    --tertiary-color: #9aa0a6; /* Define a cor terciária (cinza médio) como uma variável. */
-    --bg-color: #202124; /* Define a cor de fundo (cinza escuro) como uma variável. */
+    --primary-color: #9e14b1; /* Define a cor primária (azul claro) como uma variável. */
+    --secondary-color: #e297ec; /* Define a cor secundária (cinza claro) como uma variável. */
+    --tertiary-color: #d32ee9; /* Define a cor terciária (cinza médio) como uma variável. */
+    --bg-color: #232024; /* Define a cor de fundo (cinza escuro) como uma variável. */
 }
 
 body {
@@ -96,20 +96,25 @@ main {
     height: calc(100vh - 10rem - 4rem); /* Calcula a altura para preencher o espaço restante da tela (viewport height - header - footer). */
 }
 
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); /* Cria uma grade responsiva */
+    gap: 1.5rem; /* Espaçamento entre os cards */
+}
+
 article {
-    background: none; /* Garante que não haja cor de fundo. */
-    border-radius: 0; /* Remove o arredondamento das bordas. */
-    padding: 0; /* Remove o espaçamento interno. */
-    padding: 0 1rem; /* Adiciona espaçamento interno nos lados. */
-    margin-bottom: 1.25rem; /* Adiciona uma margem na parte inferior. */
-    box-shadow: none; /* Remove qualquer sombra. */
-    transition: background-color 0.3s ease, border-bottom-color 0.3s ease; /* Adiciona uma transição suave. */
-    border-bottom: 1px solid var(--bg-color); /* Adiciona uma linha de separação na parte inferior. */
-    padding-bottom: 1.5rem; /* Adiciona espaçamento interno na parte inferior. */
+    background: #2c2a2e; /* Um fundo sutil para destacar o card */
+    border-radius: 8px; /* Bordas arredondadas */
+    padding: 1.5rem; /* Espaçamento interno */
+    /* margin-bottom removido, pois o 'gap' do grid já cuida do espaçamento */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Sombra suave */
+    transition: transform 0.2s ease, box-shadow 0.2s ease; /* Adiciona uma transição suave. */
+    border: 1px solid #3c3a3e;
 }
 
 article:hover {
-    transform: scale(1.01); /* Aumenta ligeiramente o tamanho do artigo ao passar o mouse. */
+    transform: translateY(-3px); /* Eleva o card sutilmente */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); /* Aumenta a sombra para dar profundidade */
     cursor: pointer; /* Muda o cursor para uma mão para indicar que é interativo. */
 }
 
@@ -144,6 +149,24 @@ article a {
 
 article a:hover {
     text-decoration: underline; /* Adiciona um sublinhado quando o mouse está sobre o link. */
+}
+
+.tags-container {
+    margin-top: 1rem; /* Espaçamento acima das tags */
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem; /* Espaçamento entre as tags */
+}
+
+.tag {
+    background-color: var(--tertiary-color);
+    color: #fff;
+    padding: 0.25rem 0.6rem;
+    border-radius: 1rem; /* Bordas bem arredondadas para parecer uma pílula */
+    font-size: 0.75rem;
+    font-weight: 500;
+    white-space: nowrap;
+    opacity: 0.8;
 }
 
 .footer {

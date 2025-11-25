@@ -1,304 +1,302 @@
 [
   {
-    "nome": "TypeScript",
-    "descricao": "Linguagem que adiciona tipagem estática e outros recursos ao JavaScript, melhorando a manutenibilidade de grandes bases de código.",
-    "data_criacao": "2012",
-    "link": "https://www.typescriptlang.org/",
+    "nome": "Martin Luther King Jr.",
+    "historia": "Líder ativista americano que se tornou o porta-voz mais visível do Movimento dos Direitos Civis, utilizando a desobediência civil não violenta inspirada por Gandhi.",
+    "data_nascimento": "1929",
+    "link": "https://thekingcenter.org/",
     "tags": [
-      "linguagem de programação",
-      "tipagem estática",
-      "frontend",
-      "backend",
-      "compilador"
+      "Histórico",
+      "Ativismo",
+      "Direitos Civis",
+      "Não Violência"
     ]
   },
   {
-    "nome": "Go (Golang)",
-    "descricao": "Linguagem de programação compilada, de código aberto, projetada pelo Google para ser eficiente e fácil de usar, focada em sistemas de rede e concorrência.",
-    "data_criacao": "2009",
-    "link": "https://golang.org/",
+    "nome": "Dandara dos Palmares",
+    "historia": "Guerreira negra do Brasil Colonial que lutou junto a Zumbi no Quilombo dos Palmares. É um símbolo de resistência feminina contra a escravidão.",
+    "data_nascimento": "Século XVII",
+    "link": "https://www.gov.br/palmares/pt-br/assuntos/dandara",
     "tags": [
-      "linguagem de programação",
-      "backend",
-      "concorrência",
-      "performance"
+      "Histórico",
+      "Quilombo",
+      "Resistência",
+      "Brasil Colonial"
     ]
   },
   {
-    "nome": "Rust",
-    "descricao": "Linguagem de programação que se concentra em segurança (especialmente de memória) e performance, sem a necessidade de um coletor de lixo.",
-    "data_criacao": "2010",
-    "link": "https://www.rust-lang.org/",
+    "nome": "Rosa Parks",
+    "historia": "Ativista americana cujo ato de desafio de se recusar a ceder seu lugar em um ônibus para um homem branco em Montgomery, Alabama, desencadeou o boicote aos ônibus e se tornou um marco no Movimento dos Direitos Civis.",
+    "data_nascimento": "1913",
+    "link": "https://www.rosaparks.org/",
     "tags": [
-      "linguagem de programação",
-      "sistemas",
-      "segurança",
-      "performance"
+      "Histórico",
+      "Direitos Civis",
+      "Ativismo",
+      "Símbolo de Resistência"
     ]
   },
   {
-    "nome": "Kotlin",
-    "descricao": "Linguagem de programação moderna, estaticamente tipada, que roda na Máquina Virtual Java (JVM) e é a linguagem preferida para desenvolvimento Android.",
-    "data_criacao": "2011",
-    "link": "https://kotlinlang.org/",
+    "nome": "Malcolm X",
+    "historia": "Ativista e ministro muçulmano afro-americano que foi uma figura proeminente durante o Movimento dos Direitos Civis, defendendo o nacionalismo negro e a autodefesa.",
+    "data_nascimento": "1925",
+    "link": "https://malcolmx.com/",
     "tags": [
-      "linguagem de programação",
-      "mobile",
-      "backend",
-      "JVM"
+      "Histórico",
+      "Ativismo",
+      "Nacionalismo Negro",
+      "Liderança"
     ]
   },
   {
-    "nome": "Node.js",
-    "descricao": "Ambiente de execução open-source e cross-platform que permite executar JavaScript fora do navegador, tipicamente no lado do servidor.",
-    "data_criacao": "2009",
-    "link": "https://nodejs.org/",
+    "nome": "Chimamanda Ngozi Adichie",
+    "historia": "Escritora nigeriana aclamada cujas obras, incluindo 'Americanah' e 'Hibisco Roxo', exploram temas de identidade, raça, feminismo e a experiência africana contemporânea.",
+    "data_nascimento": "1977",
+    "link": "https://www.chimamanda.com/",
     "tags": [
-      "ambiente de execução",
-      "backend",
-      "runtime",
-      "assíncrono"
+      "Literatura",
+      "Feminismo",
+      "Nigéria",
+      "Autora"
     ]
   },
   {
-    "nome": "React Native",
-    "descricao": "Framework para construir aplicativos mobile nativos usando apenas React e JavaScript, permitindo o desenvolvimento multiplataforma.",
-    "data_criacao": "2015",
-    "link": "https://reactnative.dev/",
+    "nome": "Luiz Gama",
+    "historia": "Jurista, abolicionista e poeta brasileiro notável. Nascido livre, foi vendido como escravo, mas recuperou sua liberdade e se tornou um dos maiores defensores legais dos escravizados no Brasil.",
+    "data_nascimento": "1830",
+    "link": "https://www.gov.br/palmares/pt-br/assuntos/luiz-gama",
     "tags": [
-      "framework",
-      "mobile",
-      "multiplataforma",
-      "frontend"
+      "Histórico",
+      "Abolicionista",
+      "Jurista",
+      "Brasil Imperial"
     ]
   },
   {
-    "nome": "Vue.js",
-    "descricao": "Framework progressivo e de código aberto para a construção de interfaces de usuário e Single Page Applications (SPAs).",
-    "data_criacao": "2014",
-    "link": "https://vuejs.org/",
+    "nome": "Storm (Ororo Munroe)",
+    "historia": "Mutante do universo Marvel e membro dos X-Men, Storm possui a capacidade de manipular o clima. Ela é reverenciada como uma deusa na África e é uma das personagens femininas negras mais icônicas dos quadrinhos.",
+    "data_nascimento": "1975",
+    "link": "https://www.marvel.com/comics/characters/storm",
     "tags": [
-      "framework",
-      "frontend",
-      "reatividade",
-      "SPA"
+      "Super-Heroína",
+      "Marvel Comics",
+      "X-Men",
+      "Ficcional"
     ]
   },
   {
-    "nome": "Angular",
-    "descricao": "Plataforma e framework de desenvolvimento baseada em TypeScript, utilizada para construir aplicações web robustas de grande escala.",
-    "data_criacao": "2016",
-    "link": "https://angular.io/",
+    "nome": "Katherine Johnson",
+    "historia": "Matemática americana cujos cálculos de mecânica orbital foram cruciais para o sucesso do primeiro voo espacial tripulado dos EUA, e subsequentemente para o Projeto Apollo (retratada no filme 'Estrelas Além do Tempo').",
+    "data_nascimento": "1918",
+    "link": "https://www.nasa.gov/general/katherine-johnson/",
     "tags": [
-      "framework",
-      "frontend",
-      "TypeScript",
-      "SPA"
+      "Ciência",
+      "NASA",
+      "Histórico",
+      "Pioneirismo"
     ]
   },
   {
-    "nome": "Svelte",
-    "descricao": "Um framework de interface de usuário que move o trabalho reativo para a etapa de compilação, resultando em código mais leve e rápido em tempo de execução.",
-    "data_criacao": "2016",
-    "link": "https://svelte.dev/",
+    "nome": "Super Choque (Static Shock)",
+    "historia": "Personagem de desenho animado e quadrinhos da Milestone Comics/DC Comics. Virgil Hawkins é um adolescente que ganha poderes eletromagnéticos após ser exposto a um gás experimental.",
+    "data_nascimento": "1993",
+    "link": "https://www.dc.com/characters/static",
     "tags": [
-      "framework",
-      "frontend",
-      "compilador",
-      "performance"
+      "Super-Herói",
+      "Desenho Animado",
+      "DC Comics",
+      "Ficcional"
     ]
   },
   {
-    "nome": "Next.js",
-    "descricao": "Framework React de código aberto que permite renderização do lado do servidor (SSR), geração estática e outras otimizações para produção.",
-    "data_criacao": "2016",
-    "link": "https://nextjs.org/",
+    "nome": "Octavia E. Butler",
+    "historia": "Autora americana de ficção científica, pioneira no gênero. Suas obras exploram raça, gênero, sexualidade e humanidade, incluindo 'Kindred' e a série 'Parábola'.",
+    "data_nascimento": "1947",
+    "link": "https://octaviabutler.com/",
     "tags": [
-      "framework",
-      "frontend",
-      "SSR",
-      "full stack"
+      "Literatura",
+      "Ficção Científica",
+      "Autora",
+      "Pioneirismo"
     ]
   },
   {
-    "nome": "Spring Boot",
-    "descricao": "Framework que simplifica o processo de criação de aplicações Spring robustas e independentes, prontas para produção.",
-    "data_criacao": "2014",
-    "link": "https://spring.io/projects/spring-boot",
+    "nome": "Beyoncé Knowles-Carter",
+    "historia": "Cantora, compositora e empresária que se tornou uma das artistas mais influentes da cultura pop moderna, utilizando sua plataforma para celebrar a negritude, o feminismo e a historia afro-americana.",
+    "data_nascimento": "1981",
+    "link": "https://www.beyonce.com/",
     "tags": [
-      "framework",
-      "backend",
-      "microsserviços",
-      "JVM"
+      "Música",
+      "Cultura Pop",
+      "Ativismo",
+      "Empoderamento"
     ]
   },
   {
-    "nome": "PostgreSQL",
-    "descricao": "Sistema de gerenciamento de banco de dados relacional (RDBMS) open-source, conhecido por sua robustez, extensibilidade e conformidade com SQL.",
-    "data_criacao": "1996",
-    "link": "https://www.postgresql.org/",
+    "nome": "Toussaint Louverture",
+    "historia": "Líder da Revolução Haitiana, a única revolta de escravos bem-sucedida da historia, levando o Haiti à independência e abolindo a escravidão na colônia.",
+    "data_nascimento": "1743",
+    "link": "https://www.britannica.com/biography/Toussaint-Louverture",
     "tags": [
-      "banco de dados",
-      "relacional",
-      "SQL",
-      "código aberto"
+      "Histórico",
+      "Revolucionário",
+      "Haiti",
+      "Liderança Militar"
     ]
   },
   {
-    "nome": "MongoDB",
-    "descricao": "Banco de dados NoSQL orientado a documentos que oferece alta disponibilidade, escalabilidade e flexibilidade de esquema.",
-    "data_criacao": "2009",
-    "link": "https://www.mongodb.com/",
+    "nome": "Conceição Evaristo",
+    "historia": "Escritora brasileira, uma das vozes mais importantes da literatura afro-brasileira contemporânea. Criadora do conceito de 'escrevivência', que une a escrita à experiência vivida.",
+    "data_nascimento": "1946",
+    "link": "https://www.companhiadasletras.com.br/autor/conceicao-evaristo",
     "tags": [
-      "banco de dados",
-      "NoSQL",
-      "documentos",
-      "escalabilidade"
+      "Literatura",
+      "Escritora",
+      "Brasil",
+      "Escrevivência"
     ]
   },
   {
-    "nome": "Redis",
-    "descricao": "Banco de dados de estrutura de dados em memória, frequentemente usado como cache, broker de mensagens ou banco de dados primário de alta velocidade.",
-    "data_criacao": "2009",
-    "link": "https://redis.io/",
+    "nome": "George Washington Carver",
+    "historia": "Cientista e inventor agrônomo americano que desenvolveu centenas de usos para colheitas como amendoim, soja e batata-doce, revolucionando a agricultura no sul dos EUA.",
+    "data_nascimento": "1864",
+    "link": "https://www.tuskegee.edu/about-us/george-washington-carver",
     "tags": [
-      "banco de dados",
-      "NoSQL",
-      "cache",
-      "em memória",
-      "chave-valor"
+      "Ciência",
+      "Invenção",
+      "Agronomia",
+      "Histórico"
     ]
   },
   {
-    "nome": "Docker",
-    "descricao": "Plataforma para desenvolver, enviar e executar aplicações dentro de contêineres leves, padronizados e portáteis.",
-    "data_criacao": "2013",
-    "link": "https://www.docker.com/",
+    "nome": "Nina Simone",
+    "historia": "Cantora, pianista e ativista americana. Sua música, que misturava jazz, blues e música clássica, frequentemente abordava a desigualdade racial e a luta pelos direitos civis.",
+    "data_nascimento": "1933",
+    "link": "https://www.ninasimone.com/",
     "tags": [
-      "DevOps",
-      "conteinerização",
-      "virtualização",
-      "ferramentas"
+      "Música",
+      "Ativismo",
+      "Jazz",
+      "Ícone Cultural"
     ]
   },
   {
-    "nome": "Kubernetes (K8s)",
-    "descricao": "Sistema open-source para automação da implantação, escalonamento e gerenciamento de aplicações conteinerizadas.",
-    "data_criacao": "2014",
-    "link": "https://kubernetes.io/",
+    "nome": "Lélia Gonzalez",
+    "historia": "Intelectual, historiadora e ativista brasileira. Uma das fundadoras do Movimento Negro Unificado (MNU) no Brasil, suas obras são fundamentais para o feminismo negro e a teoria da 'Amefricanidade'.",
+    "data_nascimento": "1935",
+    "link": "https://www.geledes.org.br/lelia-gonzalez-uma-das-vozes-mais-importantes-do-feminismo-negro/",
     "tags": [
-      "orquestração",
-      "DevOps",
-      "cloud native",
-      "automação"
+      "Intelectual",
+      "Feminismo Negro",
+      "Ativismo",
+      "Brasil"
     ]
   },
   {
-    "nome": "Terraform",
-    "descricao": "Ferramenta de Infraestrutura como Código (IaC) que permite provisionar e gerenciar recursos de nuvem usando código declarativo.",
-    "data_criacao": "2014",
-    "link": "https://www.terraform.io/",
+    "nome": "Barack Obama",
+    "historia": "O 44º presidente dos Estados Unidos, o primeiro afro-americano a ocupar o cargo. Seu mandato foi marcado por reformas de saúde e a superação da crise financeira de 2008.",
+    "data_nascimento": "1961",
+    "link": "https://obama.org/",
     "tags": [
-      "IaC",
-      "DevOps",
-      "cloud computing",
-      "automação"
+      "Político",
+      "Histórico",
+      "Liderança Global",
+      "EUA"
     ]
   },
   {
-    "nome": "AWS Lambda",
-    "descricao": "Serviço de computação serverless da Amazon Web Services que executa código em resposta a eventos sem a necessidade de gerenciar servidores.",
-    "data_criacao": "2014",
-    "link": "https://aws.amazon.com/lambda/",
+    "nome": "Luke Cage",
+    "historia": "Super-herói da Marvel, também conhecido como Power Man. Após um experimento sabotado na prisão, ele adquire força sobre-humana e pele indestrutível. É um dos primeiros heróis negros a estrelar sua própria série.",
+    "data_nascimento": "1972",
+    "link": "https://www.marvel.com/comics/characters/luke-cage",
     "tags": [
-      "serverless",
-      "cloud computing",
-      "FaaS",
-      "AWS"
+      "Super-Herói",
+      "Marvel Comics",
+      "Ficcional",
+      "Cultura Urbana"
     ]
   },
   {
-    "nome": "GraphQL",
-    "descricao": "Linguagem de consulta e tempo de execução do lado do servidor para APIs, desenvolvida pelo Facebook como alternativa ao REST.",
-    "data_criacao": "2015",
-    "link": "https://graphql.org/",
+    "nome": "Maya Angelou",
+    "historia": "Poeta, escritora, atriz e ativista americana. Conhecida por sua autobiografia 'Eu Sei Por Que o Pássaro Canta na Gaiola', ela se tornou uma voz poderosa sobre a experiência negra nos EUA.",
+    "data_nascimento": "1928",
+    "link": "https://mayaangelou.com/",
     "tags": [
-      "API",
-      "protocolo",
-      "backend",
-      "consulta de dados"
+      "Literatura",
+      "Poesia",
+      "Ativismo",
+      "Ícone Cultural"
     ]
   },
   {
-    "nome": "Kafka",
-    "descricao": "Plataforma de streaming de eventos distribuída e de alta performance, usada para construir pipelines de dados em tempo real.",
-    "data_criacao": "2011",
-    "link": "https://kafka.apache.org/",
+    "nome": "Chadwick Boseman (T'Challa)",
+    "historia": "Ator que imortalizou o personagem T'Challa (Pantera Negra) no Universo Cinematográfico Marvel. T'Challa é o rei e protetor da nação africana avançada de Wakanda, um símbolo global de realeza e poder negro.",
+    "data_nascimento": "1976",
+    "link": "https://www.marvel.com/comics/characters/t-challa",
     "tags": [
-      "streaming",
-      "mensagens",
-      "big data",
-      "arquitetura de eventos"
+      "Cinema",
+      "Ficcional",
+      "Wakanda",
+      "Super-Herói"
     ]
   },
   {
-    "nome": "Solidity",
-    "descricao": "Linguagem de programação orientada a contratos para escrever contratos inteligentes, usada primariamente na blockchain Ethereum.",
-    "data_criacao": "2014",
-    "link": "https://soliditylang.org/",
+    "nome": "Marielle Franco",
+    "historia": "Socióloga, feminista e ativista dos direitos humanos brasileira. Foi vereadora no Rio de Janeiro e uma crítica feroz da violência policial e da intervenção militar, sendo tragicamente assassinada em 2018.",
+    "data_nascimento": "1979",
+    "link": "https://www.anistia.org.br/quem-era-marielle-franco/",
     "tags": [
-      "linguagem de programação",
-      "blockchain",
-      "smart contracts",
-      "criptomoedas"
+      "Ativismo",
+      "Política",
+      "Direitos Humanos",
+      "Brasil"
     ]
   },
   {
-    "nome": "Dart",
-    "descricao": "Linguagem otimizada para o cliente, desenvolvida pelo Google, usada principalmente com o framework Flutter para mobile, web e desktop.",
-    "data_criacao": "2011",
-    "link": "https://dart.dev/",
+    "nome": "Milton Santos",
+    "historia": "Geógrafo, escritor e intelectual brasileiro, considerado um dos maiores pensadores da geografia mundial no século XX. Suas obras criticam a globalização, a desigualdade e a urbanização sob a ótica do Sul Global.",
+    "data_nascimento": "1926",
+    "link": "https://miltonsantos.com.br/",
     "tags": [
-      "linguagem de programação",
-      "mobile",
-      "frontend",
-      "multiplataforma"
+      "Intelectual",
+      "Geografia",
+      "Brasil",
+      "Acadêmico"
     ]
   },
   {
-    "nome": "CI/CD",
-    "descricao": "Conjunto de práticas que envolvem Integração Contínua e Entrega Contínua para automatizar e monitorar todo o ciclo de vida do software.",
-    "data_criacao": "2006",
-    "link": "https://www.atlassian.com/continuous-delivery/ci-cd",
+    "nome": "Bessie Coleman",
+    "historia": "A primeira mulher afro-americana e a primeira mulher nativa americana a obter uma licença de piloto (1921). Ela superou o racismo e o sexismo para se tornar uma aviadora acrobática de sucesso.",
+    "data_nascimento": "1892",
+    "link": "https://www.nationalaviation.org/our-enshrinees/coleman-bessie/",
     "tags": [
-      "metodologia",
-      "DevOps",
-      "automação",
-      "processos"
+      "Pioneirismo",
+      "Aviação",
+      "Histórico",
+      "Esporte"
     ]
   },
   {
-    "nome": "Git",
-    "descricao": "Sistema de controle de versão distribuído, essencial para o rastreamento de mudanças e o desenvolvimento colaborativo de software.",
-    "data_criacao": "2005",
-    "link": "https://git-scm.com/",
+    "nome": "Muhammad Ali",
+    "historia": "Lutador de boxe americano, considerado um dos maiores atletas de todos os tempos. Além de campeão mundial, foi uma figura icônica no ativismo político e religioso, promovendo o orgulho negro.",
+    "data_nascimento": "1942",
+    "link": "https://alicenter.org/",
     "tags": [
-      "controle de versão",
-      "ferramenta",
-      "colaboração",
-      "DevOps"
+      "Esporte",
+      "Ativismo",
+      "Boxe",
+      "Cultura Pop"
     ]
   },
   {
-    "nome": "Tailwind CSS",
-    "descricao": "Framework CSS 'utility-first' que permite construir designs personalizados rapidamente, aplicando classes diretamente no markup HTML.",
-    "data_criacao": "2017",
-    "link": "https://tailwindcss.com/",
+    "nome": "Wangari Maathai",
+    "historia": "Ativista ambiental e política queniana. Foi a fundadora do Movimento Cinturão Verde, que plantou milhões de árvores para combater a desflorestação. Ela foi a primeira mulher africana a ganhar o Prêmio Nobel da Paz (2004).",
+    "data_nascimento": "1940",
+    "link": "https://www.greenbeltmovement.org/",
     "tags": [
-      "CSS",
-      "framework",
-      "frontend",
-      "design"
+      "Ativismo",
+      "Meio Ambiente",
+      "Nobel da Paz",
+      "Quênia"
     ]
   }
 ]

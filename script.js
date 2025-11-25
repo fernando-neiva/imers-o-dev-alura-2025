@@ -17,7 +17,7 @@ async function iniciarBusca() {
     const termoBusca = campoBusca.value.toLowerCase();
     const dadosFiltrados = dados.filter(dado => 
         dado.nome.toLowerCase().includes(termoBusca) || 
-        dado.descricao.toLowerCase().includes(termoBusca)
+        dado.historia.toLowerCase().includes(termoBusca)
     );
 
     renderizarCards(dadosFiltrados);
@@ -28,11 +28,17 @@ function renderizarCards(dados) {
     for (let dado of dados) {
         let article = document.createElement("article");
         article.classList.add("card");
+
+        const tagsHTML = dado.tags.map(tag => `<span class="tag">${tag}</span>`).join(''); //Ajuste feito pela IA para adicionar as Tags na exibição do card
+
         article.innerHTML = `
         <h2>${dado.nome}</h2>
-        <p>${dado.data_criacao}</p>
-        <p>${dado.descricao}</p>
+        <p>${dado.data_nascimento}</p>
+        <p>${dado.historia}</p>
         <a href="${dado.link}" target="_blank">Saiba mais</a>
+        <div class="tags-container"> 
+            ${tagsHTML}
+        </div>
         `
         cardContainer.appendChild(article);
     }
